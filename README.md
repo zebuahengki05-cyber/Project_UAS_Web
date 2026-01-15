@@ -9,7 +9,7 @@
    <img width="1912" height="1001" alt="image" src="https://github.com/user-attachments/assets/049a3d7e-ef5e-44a3-86e9-e09f6f9e1ea4" />
 5. Halaman edit barang
    <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/c40f0bf3-2a70-4f0f-a7cb-b06d85dae4fa" />
-6. Halaman ketika mengkli beli sekarang
+6. Halaman ketika mengklik beli sekarang
    <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/30b92240-5e30-409a-8124-b7c0a36f5a69" />
 
 
